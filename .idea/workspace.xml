@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9f27e00-f49c-426c-92e0-df8544b49d97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/MergeWithOutConflict/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MergeWithOutConflict/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeWithOutConflict/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MergeWithOutConflict/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MergeWithOutConflict/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MergeWithOutConflict/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MergeWithOutConflict/.idea/vcs.xml" beforeDir="false" />
@@ -67,6 +66,7 @@
       <workItem from="1768449824403" duration="100000" />
       <workItem from="1768453317115" duration="105000" />
       <workItem from="1768486281769" duration="31000" />
+      <workItem from="1768487198200" duration="31000" />
     </task>
     <servers />
   </component>
