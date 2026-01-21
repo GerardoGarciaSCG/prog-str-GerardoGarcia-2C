@@ -7,6 +7,11 @@ public class Main {
 
         double subtotal = pedirDouble(scanner, "Subtotal: ");
         double total = subtotal;
+        double  DESCUENTO = 0.10;
+        double UMBRAL_DESCUENTO = 1000.0;
+        if (subtotal > UMBRAL_DESCUENTO){
+            total = total - (total * DESCUENTO);
+        }
 
         System.out.printf("Total a pagar: %.2f%n", total);
     }
