@@ -17,32 +17,45 @@ public class ActividadSwitchCalculadora {
         Scanner leer =new Scanner(System.in);
         menu();
         opc = leer.nextInt();
-        System.out.println("Ingresa el primer valor ");
-        num1 = leer.nextDouble();
-        System.out.println("Ingresa el segundo valor");
-        num2 = leer.nextDouble();
+
         switch (opc){
             case 1:
+                System.out.println("Ingresa el primer valor ");
+                num1 = leer.nextDouble();
+                System.out.println("Ingresa el segundo valor");
+                num2 = leer.nextDouble();
                 resultado=sumar(num1,num2);
                 break;
 
             case 2:
+                System.out.println("Ingresa el primer valor ");
+                num1 = leer.nextDouble();
+                System.out.println("Ingresa el segundo valor");
+                num2 = leer.nextDouble();
                 resultado=restar(num1,num2);
                 break;
             case    3:
+                System.out.println("Ingresa el primer valor ");
+                num1 = leer.nextDouble();
+                System.out.println("Ingresa el segundo valor");
+                num2 = leer.nextDouble();
                 resultado=multipicar(num1,num2);
                 break;
             case 4:
+                System.out.println("Ingresa el primer valor ");
+                num1 = leer.nextDouble();
+                System.out.println("Ingresa el segundo valor");
+                num2 = leer.nextDouble();
                 if (num2 == 0){
                     System.out.println("No se puede dividir entre cero");
                 }else {
+
                     resultado=dividir(num1,num2);
 
                 }
                 break;
             default:
-                System.out.println("No es posible realizar la operación.");
-                return;
+                System.out.println("Valor incorrecto escoja un numero del rango de opciones");
         }
         System.out.println("El resultado de la operación es: " + resultado);
 
