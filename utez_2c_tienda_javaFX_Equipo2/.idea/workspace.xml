@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed1583cb-9d61-4891-836d-d28d9b17347d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/src/main/java/com/example/utezz_2c_tienda_java_equipo2/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/src/main/java/com/example/utezz_2c_tienda_java_equipo2/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/src/main/java/com/example/utezz_2c_tienda_java_equipo2/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Utezz_2c_tienda_java_Equipo2/src/main/resources/com/example/utezz_2c_tienda_java_equipo2/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed1583cb-9d61-4891-836d-d28d9b17347d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775164763956</updated>
-      <workItem from="1775164768091" duration="2261000" />
+      <workItem from="1775164768091" duration="2497000" />
     </task>
     <servers />
   </component>
